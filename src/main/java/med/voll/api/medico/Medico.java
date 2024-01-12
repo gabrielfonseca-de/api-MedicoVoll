@@ -36,4 +36,22 @@ public class Medico {
         this.especialidade = dados.especialidade();
         this.endereco = new Endereco(dados.endereco());
     }
+
+    public String getNome() {
+
+        return null;
+    }
+
+    public String getEmail() {
+
+        return null;
+    }
+
+    public String getCrm() {
+        return null;
+    }
+
+    public Especialidade getEspecialidade() {
+        return null;
+    }
 }
