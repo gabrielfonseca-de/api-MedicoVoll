@@ -54,4 +54,8 @@ public class Medico {
     public Especialidade getEspecialidade() {
         return null;
     }
+
+    public Long getId() {
+        return null;
+    }
 }
